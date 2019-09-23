@@ -1,0 +1,96 @@
+
+(com.revature.models.Receipts#hashCode()I†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java ("7*ù
+2†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java#4 #(:Ù
+Ö
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java#4 #(:
+%10java.lang.String"__id*,**
+com.revature.models.Receipts"
+statusÜÙ
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java#4 #(E	
+%9int"java.lang.String#hashCode()I*
+
+%10java.lang.String2
+hashCode()ª
+§
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java#4 #(E	
+%7int"__id*
+	
+%9int*
+1*¾
+3†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java#0 #(1ª
+§
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java#0 #(1	
+%7int"__id*
+	
+%8int*
+1*ï
+4†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java! !(BØ
+Õ
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java# #($
+%6java.lang.String"__id*,**
+com.revature.models.Receipts"
+status*
+2
+3*õ
+5†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java!2 !(6Ö
+Ó
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java!2 !(6
+%5java.lang.String"__id***(
+com.revature.models.Receipts"
+noteÛØ
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java!2 !(A	
+%4int"java.lang.String#hashCode()I*
+
+%5java.lang.String2
+hashCode()ª
+§
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java!2 !(A	
+%2int"__id*
+	
+%4int*
+4*¾
+6†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java!. !(/ª
+§
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java!. !(/	
+%2int"__id*
+	
+%3int*
+4*Í
+7†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java (Ý
+Ú
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java	 ((
+
+%0long"%java.lang.Double#doubleToLongBits(D)J*"
+java.lang.Double*
+""Ö
+Ó
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java! !("
+%1java.lang.String"__id***(
+com.revature.models.Receipts"
+note*
+5
+6* 
+1†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java# #(F"‘
+†
+|/Users/mannanqazi/Desktop/Revature_8-19/batch-source/Project_1/ReImbursement/src/main/java/com/revature/models/Receipts.java$ $(
+""B 
+com.revature.models.Receipts

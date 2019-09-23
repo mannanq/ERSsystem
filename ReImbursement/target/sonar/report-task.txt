@@ -1,0 +1,7 @@
+organization=mannanq
+projectKey=mannanq_ERSsystem
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.678
+dashboardUrl=https://sonarcloud.io/dashboard?id=mannanq_ERSsystem
+ceTaskId=AW1ArCKJ9uuuyZd7o0NS
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW1ArCKJ9uuuyZd7o0NS
